@@ -59,6 +59,8 @@ https://quantaorgan.web.app
 <img width="1901" height="906" alt="Screenshot 2026-10-12 164413" src="https://github.com/user-attachments/assets/fe25d56b-03a6-484f-80f0-4e51211614b8" />
 
 
+
+
 # ⚛️ QuantumMatch: Optimizing Organ Allocation with Quantum Computing
 
 > A hybrid quantum-classical decision-support prototype that turns organ transplant matching into a QUBO problem and solves it with QAOA (Qiskit).
