@@ -47,3 +47,15 @@ https://quantaorgan.web.app
 5. **Deployment Topologies:**
    * Cloud **CDN architecture** on **Firebase Hosting** (`quantaorgan.web.app`)
    * Local standalone execution from your `OT_QUANTA.zip` package
+
+
+
+
+    # 🏥 QuantaOrgan Platform
+> Real-time donor coordination, deterministic crossmatch, and quantum allocation research.
+
+## 🖥️ Platform Preview
+
+<p align="center">
+  <img src=""C:\Users\SASI\Pictures\Screenshots\Screenshot 2026-10-12 164413.png"" alt="QuantaOrgan Clinical Transplant Dashboard Preview" width="100%">
+</p>
