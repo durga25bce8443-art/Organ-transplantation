@@ -56,6 +56,5 @@ https://quantaorgan.web.app
 
 ## 🖥️ Platform Preview
 
-<p align="center">
-  <img src=""C:\Users\SASI\Pictures\Screenshots\Screenshot 2026-10-12 164413.png"" alt="QuantaOrgan Clinical Transplant Dashboard Preview" width="100%">
-</p>
+<img width="1901" height="906" alt="Screenshot 2026-10-12 164413" src="https://github.com/user-attachments/assets/fe25d56b-03a6-484f-80f0-4e51211614b8" />
+
