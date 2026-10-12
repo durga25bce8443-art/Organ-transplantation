@@ -1,4 +1,4 @@
- * Backed:
+ * Backend:
 ```bash
 cd QuantaOrgan\backend
 python -m venv venv
